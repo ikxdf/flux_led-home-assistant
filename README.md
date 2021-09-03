@@ -6,7 +6,7 @@ This custom component fix the problem.
 
 
 
-INSTALL
+**INSTALL**
 
 copy flux_led folder on your custom_components dir on Home hasssistant
 
