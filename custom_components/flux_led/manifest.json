@@ -5,6 +5,6 @@
   "dependencies": [],
   "codeowners": ["@ikxdf"],
   "requirements": [],
-  "iot_class": "cloud_polling"
+  "iot_class": "cloud_polling",
   "version": "0.1"
 }
