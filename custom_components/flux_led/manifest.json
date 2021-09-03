@@ -1,7 +1,7 @@
 {
   "domain": "flux_led",
   "name": "Flux Led Fix",
-  "documentation": "https://www.home-assistant.io/components/flux_led",
+  "documentation": "https://github.com/ikxdf/flux_led-home-assistant",
   "dependencies": [],
   "codeowners": ["@ikxdf"],
   "requirements": [],
